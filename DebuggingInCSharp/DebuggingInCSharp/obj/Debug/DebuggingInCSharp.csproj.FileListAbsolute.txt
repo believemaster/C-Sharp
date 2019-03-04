@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\DebuggingInCSharp\DebuggingInCSharp\bin\Debug\DebuggingInCSharp.exe.config
+C:\Users\user\source\repos\DebuggingInCSharp\DebuggingInCSharp\bin\Debug\DebuggingInCSharp.exe
+C:\Users\user\source\repos\DebuggingInCSharp\DebuggingInCSharp\bin\Debug\DebuggingInCSharp.pdb
+C:\Users\user\source\repos\DebuggingInCSharp\DebuggingInCSharp\obj\Debug\DebuggingInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DebuggingInCSharp\DebuggingInCSharp\obj\Debug\DebuggingInCSharp.exe
+C:\Users\user\source\repos\DebuggingInCSharp\DebuggingInCSharp\obj\Debug\DebuggingInCSharp.pdb

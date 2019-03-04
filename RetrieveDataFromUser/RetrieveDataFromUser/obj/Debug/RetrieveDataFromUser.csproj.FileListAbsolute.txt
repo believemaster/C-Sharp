@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\RetrieveDataFromUser\RetrieveDataFromUser\bin\Debug\RetrieveDataFromUser.exe.config
+C:\Users\user\source\repos\RetrieveDataFromUser\RetrieveDataFromUser\bin\Debug\RetrieveDataFromUser.exe
+C:\Users\user\source\repos\RetrieveDataFromUser\RetrieveDataFromUser\bin\Debug\RetrieveDataFromUser.pdb
+C:\Users\user\source\repos\RetrieveDataFromUser\RetrieveDataFromUser\obj\Debug\RetrieveDataFromUser.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RetrieveDataFromUser\RetrieveDataFromUser\obj\Debug\RetrieveDataFromUser.exe
+C:\Users\user\source\repos\RetrieveDataFromUser\RetrieveDataFromUser\obj\Debug\RetrieveDataFromUser.pdb

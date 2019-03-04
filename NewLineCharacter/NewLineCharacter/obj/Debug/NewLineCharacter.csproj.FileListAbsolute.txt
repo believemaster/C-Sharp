@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\NewLineCharacter\NewLineCharacter\bin\Debug\NewLineCharacter.exe.config
+C:\Users\user\source\repos\NewLineCharacter\NewLineCharacter\bin\Debug\NewLineCharacter.exe
+C:\Users\user\source\repos\NewLineCharacter\NewLineCharacter\bin\Debug\NewLineCharacter.pdb
+C:\Users\user\source\repos\NewLineCharacter\NewLineCharacter\obj\Debug\NewLineCharacter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NewLineCharacter\NewLineCharacter\obj\Debug\NewLineCharacter.exe
+C:\Users\user\source\repos\NewLineCharacter\NewLineCharacter\obj\Debug\NewLineCharacter.pdb

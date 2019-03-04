@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\PrintingValues\PrintingValues\bin\Debug\PrintingValues.exe.config
+C:\Users\user\source\repos\PrintingValues\PrintingValues\bin\Debug\PrintingValues.exe
+C:\Users\user\source\repos\PrintingValues\PrintingValues\bin\Debug\PrintingValues.pdb
+C:\Users\user\source\repos\PrintingValues\PrintingValues\obj\Debug\PrintingValues.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PrintingValues\PrintingValues\obj\Debug\PrintingValues.exe
+C:\Users\user\source\repos\PrintingValues\PrintingValues\obj\Debug\PrintingValues.pdb

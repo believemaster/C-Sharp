@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\CSharpStart\CSharpStart\bin\Debug\CSharpStart.exe.config
+C:\Users\user\source\repos\CSharpStart\CSharpStart\bin\Debug\CSharpStart.exe
+C:\Users\user\source\repos\CSharpStart\CSharpStart\bin\Debug\CSharpStart.pdb
+C:\Users\user\source\repos\CSharpStart\CSharpStart\obj\Debug\CSharpStart.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CSharpStart\CSharpStart\obj\Debug\CSharpStart.Form1.resources
+C:\Users\user\source\repos\CSharpStart\CSharpStart\obj\Debug\CSharpStart.Properties.Resources.resources
+C:\Users\user\source\repos\CSharpStart\CSharpStart\obj\Debug\CSharpStart.csproj.GenerateResource.cache
+C:\Users\user\source\repos\CSharpStart\CSharpStart\obj\Debug\CSharpStart.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharpStart\CSharpStart\obj\Debug\CSharpStart.exe
+C:\Users\user\source\repos\CSharpStart\CSharpStart\obj\Debug\CSharpStart.pdb

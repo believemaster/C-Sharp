@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\IfStatementInCSharp\IfStatementInCSharp\bin\Debug\IfStatementInCSharp.exe.config
+C:\Users\user\source\repos\IfStatementInCSharp\IfStatementInCSharp\bin\Debug\IfStatementInCSharp.exe
+C:\Users\user\source\repos\IfStatementInCSharp\IfStatementInCSharp\bin\Debug\IfStatementInCSharp.pdb
+C:\Users\user\source\repos\IfStatementInCSharp\IfStatementInCSharp\obj\Debug\IfStatementInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\IfStatementInCSharp\IfStatementInCSharp\obj\Debug\IfStatementInCSharp.exe
+C:\Users\user\source\repos\IfStatementInCSharp\IfStatementInCSharp\obj\Debug\IfStatementInCSharp.pdb
