@@ -1,5 +1,5 @@
 # C-Sharp
-This repository contains C# programs to understand the concepts of c#. All the apps included in this repository is simple and easy to understand. also its free and pubic for all so that who so ever is keen to learn c# can look through the codes with comments for easy understanding.
+This repository contains C# programs to understand the concepts of c#. All the apps included in this repository is simple and easy to understand. also its free and public for all so that who so ever is keen to learn c# can look through the codes with comments for easy understanding.
 
 ## Why C# ?
 This is most popular language and is very much cool and easy to learn language. This language can be used to develop games and windows applications and forms and also to make web-apps and web-forms using APS.NET which also includes C# language.
