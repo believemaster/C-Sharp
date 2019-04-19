@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Greatest of two\Greatest of two\bin\Debug\Greatest of two.exe.config
+C:\Users\user\source\repos\Greatest of two\Greatest of two\bin\Debug\Greatest of two.exe
+C:\Users\user\source\repos\Greatest of two\Greatest of two\bin\Debug\Greatest of two.pdb
+C:\Users\user\source\repos\Greatest of two\Greatest of two\obj\Debug\Greatest of two.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Greatest of two\Greatest of two\obj\Debug\Greatest of two.exe
+C:\Users\user\source\repos\Greatest of two\Greatest of two\obj\Debug\Greatest of two.pdb
